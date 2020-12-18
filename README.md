@@ -1,4 +1,4 @@
-# SpamWa
+# 🌐What's app spammer by T E C H 2. G A M E R™🌐
 ```
 $ pkg install python
 $ pkg install git
